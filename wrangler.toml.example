@@ -1,0 +1,6 @@
+name = "cloudflare-graphql"
+type = "webpack"
+zone_id = "1234567890"
+private = false
+account_id = "abc123456789"
+route = "/"
