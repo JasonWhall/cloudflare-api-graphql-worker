@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/JasonWhall/cloudflare-api-graphql-worker#readme",
   "dependencies": {
-    "apollo-server-cloudflare": "^2.8.1",
+    "apollo-server-cloudflare": "^2.14.2",
     "graphql": "^14.4.2"
   },
   "devDependencies": {
